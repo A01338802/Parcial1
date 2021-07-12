@@ -1,0 +1,25 @@
+body {
+    background-color:antiquewhite;
+}
+
+header{
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    border: double 5px;
+}
+
+#quote {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+span {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 50px;
+}
